@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="WTGQzGLfZ4bBkja97-lY">
-    <mxGraphModel>
+    <mxGraphModel dx="1373" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ryzo75y26oO--fkptY5V-3" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="90" width="160" x="240" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-5" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=default;fillColor=default;" value="&lt;b&gt;&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;Pengunjung mengakses URL &lt;/span&gt;&lt;code dir=&quot;ltr&quot; class=&quot;KDcb0c&quot; data-sfc-root=&quot;c&quot; data-sfc-cb=&quot;&quot; style=&quot;font-size: 14px; line-height: 22px; background-color: rgb(44, 46, 53); border-color: rgb(44, 46, 53); border-style: solid; border-width: 0.8px; border-image: none 100% / 1 / 0 stretch; border-radius: 4px; padding-block: 2px; padding-inline: 4px; color: rgb(230, 232, 240); text-align: start;&quot;&gt;/events/create&lt;/code&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-7" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-13" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;Apakah pengguna sudah Login?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="145" width="230" x="205" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-17" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;Tampilkan halaman form pembuatan acara&lt;/span&gt;" vertex="1">
+          <mxGeometry height="97.5" width="202.5" x="218.75" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-9" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="435" as="sourcePoint" />
+            <mxPoint x="320" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="YA" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-12" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;Redirect/lempar ke halaman Login&lt;/span&gt;" vertex="1">
+          <mxGeometry height="92.5" width="180" x="520" y="316.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-14" edge="1" parent="1" source="ryzo75y26oO--fkptY5V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ryzo75y26oO--fkptY5V-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="363" as="sourcePoint" />
+            <mxPoint x="530" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TIDAK" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="347.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ryzo75y26oO--fkptY5V-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SELESAI" vertex="1">
+          <mxGeometry height="90" width="160" x="240" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
