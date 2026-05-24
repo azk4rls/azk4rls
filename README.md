@@ -95,11 +95,11 @@
 ┌──────────────────────────────────────────────┐
 │  SELECT COMMUNICATION CHANNEL                │
 │                                              │
-│  [A] LinkedIn  →  Career & Collab           │
-│  [B] TikTok    →  Dev Content               │
-│  [C] Discord   →  Game Dev Guild            │
+│  [A] LinkedIn  →  Career & Collab            │
+│  [B] TikTok    →  Dev Content                │
+│  [C] Discord   →  Game Dev Guild             │
 │                                              │
-│  > INSERT COIN TO CONTINUE...               │
+│  > INSERT COIN TO CONTINUE...                │
 └──────────────────────────────────────────────┘
 ```
 
