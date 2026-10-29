@@ -20,13 +20,13 @@ working in collaborative environments, keep learning new things, and always valu
 ### Core Tech Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,postgres&theme=dark" alt="Core Tech Stacks" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,svelte,astro,postgres&theme=dark" alt="Core Tech Stacks" />
 </p>
 
 ### Other Tech Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,mysql&theme=dark" alt="Other Tech Stacks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,go,mysql&theme=dark" alt="Other Tech Stacks" />
 </p>
 
 ### Tools
