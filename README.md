@@ -32,7 +32,7 @@ working in collaborative environments, keep learning new things, and always valu
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux,cloudflare,azure,aws&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,supabase,figma,linux,cloudflare,azure,aws&theme=dark" alt="Tools" />
 </p>
 
 ---
